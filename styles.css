@@ -1,0 +1,29 @@
+header {
+    background-color: darkgray;
+    text-align: center;
+    font-weight: 600;
+}
+h3 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+h3:hover {
+    color:white;
+    background-color: blue;
+    
+}
+.description {
+    text-align: center;
+    background-color: lightgray;
+    padding:15px;
+}
+
+
+
+.footer{
+   color:red !important;
+   text-align: center;
+   font-size: 15px;
+   font-weight: 700;
+}
